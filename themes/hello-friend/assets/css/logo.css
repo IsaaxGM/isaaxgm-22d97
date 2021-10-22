@@ -21,7 +21,7 @@
     font-size: 1.125rem;
   }
 
-  __cursor {
+  &__cursor {
     display: inline-block;
     width: 10px;
     height: 1rem;
