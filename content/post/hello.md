@@ -1,5 +1,5 @@
 +++
-title = "Hola¡ Soy Isaac Garcia"
+title = "¡Hola¡ Soy Isaac Garcia"
 date = "1986-09-17"
 author = "Elliot"
 cover = "img/hello.jpg"
